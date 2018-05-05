@@ -2,7 +2,7 @@
 A simple HTTP server written in C
 # Installation
 1. Clone
-2. Run make to get a compilation for server.c
+2. Run ```make``` to get a compilation for server.c
 3. Run the executable ```server```
 4. Open your favorite browser and open ```localhost:8000```
 5. Follow shutdown instructions while shutting down the server
