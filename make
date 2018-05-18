@@ -3,4 +3,4 @@
 	gcc -g -Wall -o server server.c
 
  clean: 
-	rm cserver
+	rm server
